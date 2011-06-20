@@ -1,0 +1,17 @@
+name: TeleRequest
+main: uk.co.oliwali.TeleRequest.TeleRequest
+author: oliverw92
+version: 0.1.0
+commands:
+  tpr:
+    description: 'Request a teleport to a player'
+    usage: '/<command> [player]'
+  tpa:
+    description: 'Accept a teleport request'
+    usage: '/<command>'
+  tpd:
+    description: 'Decline a teleport request'
+    usage: '/<command>'
+  tph:
+    description: 'Help information'
+    usage: '/<command>'
